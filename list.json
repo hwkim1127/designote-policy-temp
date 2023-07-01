@@ -1,0 +1,23 @@
+[
+    { "id": "02fd",
+      "isRequired": true,
+      "order": 0,
+      "title": "개인정보처리방침",
+      "createdBy": "MeMyselfAndI",
+      "createdAt": "2023-07-01T17:21:22.850276Z",
+      "updatedBy": "MeMyselfAndI",
+      "updatedAt": "2023-07-01T17:21:22.850276Z",
+      "uri": "/privacy.txt"
+    },
+    {
+      "id": "10ex",
+      "isRequired": true,
+      "order": 1,
+      "title": "서비스 이용약관",
+      "createdBy": "MeMyselfAndI",
+      "createdAt": "2023-07-01T17:21:22.850276Z",
+      "updatedBy": "MeMyselfAndI",
+      "updatedAt": "2023-07-01T17:21:22.850276Z",
+      "uri": "/service.txt"
+    }
+]
