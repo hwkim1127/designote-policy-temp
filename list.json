@@ -22,7 +22,7 @@
     },
     {
       "id": "2g5x",
-      "isRequired": true,
+      "isRequired": false,
       "order": 2,
       "title": "마케팅 정보 수신 동의",
       "createdBy": "MeMyselfAndI",
