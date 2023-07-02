@@ -19,5 +19,16 @@
       "updatedBy": "MeMyselfAndI",
       "updatedAt": "2023-07-01T17:21:22.850276Z",
       "uri": "/service.txt"
+    },
+    {
+      "id": "2g5x",
+      "isRequired": true,
+      "order": 2,
+      "title": "마케팅 정보 수신 동의",
+      "createdBy": "MeMyselfAndI",
+      "createdAt": "2023-07-01T17:21:22.850276Z",
+      "updatedBy": "MeMyselfAndI",
+      "updatedAt": "2023-07-01T17:21:22.850276Z",
+      "uri": "/marketing.txt"
     }
 ]
